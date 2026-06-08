@@ -1,0 +1,3 @@
+{
+  "tests/test_evaluator.py::TestSyntaxErrors::test_leading_operator": true
+}
